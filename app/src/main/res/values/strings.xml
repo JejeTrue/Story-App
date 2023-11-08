@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">StoryOfJ</string>
+    <string name="title_welcome_page">Selamat datang di StoryOfj</string>
+    <string name="message_welcome_page">Mau lihat cerita-cerita saya? di StoryOfj aja!</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="password_strict">use a minimum of 8 letters</string>
+    <string name="incorrect_format">Incorrect format</string>
+    <string name="title_signup_page">Lengkapi data kamu ya!</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="success">Berhasil!!!</string>
+    <string name="title_login_page">Sudah siap?</string>
+    <string name="message_login_page">Masukkan dulu datamu ya.</string>
+    <string name="error">Gagal!!!</string>
+    <string name="yes">Ya</string>
+    <string name="language">bahasa</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story_image">gambar dibagian detail</string>
+    <string name="create_story">buat story baru</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">deskripsi story baru</string>
+    <string name="submit_story">Submit</string>
+    <string name="warning_text">gagal!!!</string>
+    <string name="success_register">berhasil daftar</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+    <string name="gettingData">getting data</string>
+    <string name="successLoc">success getting data</string>
+</resources>
